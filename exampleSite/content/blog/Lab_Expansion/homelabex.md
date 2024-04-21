@@ -47,12 +47,11 @@ Undeterred, I opted for an open frame rack solution instead. This shift not only
 Certainly! Documenting these projects is an integral aspect of my learning journey. These labs serve as invaluable hands-on experiences, enriching my understanding as I strive towards achieving the prestigious Cisco CCNP ENCOR certification.
 
 ## Here is some of the equipment I purchased recently for expanding my lab.
-![Server Drive Upgrade](/uploads/Home_Lab/ServerDrive.PNG)`Dell 600GB 2.5 HD in a RAID 5 configuration`
-![Server Rack Open Fram](/uploads/Home_Lab/OpenRack.PNG) `15U Open Frame 19"`
+`Dell 600GB 2.5 HD in a RAID 5 configuration`![Server Drive Upgrade](/uploads/Home_Lab/ServerDrive.PNG)`15U Open Frame 19"`![Server Rack Open Fram](/uploads/Home_Lab/OpenRack.PNG) 
 ![Cisco WLC](/uploads/Home_Lab/WLC.PNG) `Cisco AIR-CT2504-5-K9 Wireless Lan Controller`
 ![Ubiquiti NanoStation M5](/uploads/Home_Lab/LOS.PNG) `NanoStation M5 Wireless airMAX`
-![Network Diagram](/uploads/Home_Lab/Labdiagram.png) `This is my vision for integrating all my lab gear for different Use Cases`
-![Rack Diagram](/uploads/Home_Lab/RackDiagram.png) `This is how I want to install my lab equipment`
+![Network Diagram](/uploads/Home_Lab/Labdiagram1.png) `This is my vision for integrating all my lab gear for different Use Cases`
+![Rack Diagram](/uploads/Home_Lab/RackDiagram1.png) `This is how I want to install my lab equipment`
 
 
 # Some of my Lab videos
